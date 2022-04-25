@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1 Java Programming Masterclass/1 Java Programming Masterclass.iml" filepath="$PROJECT_DIR$/../1 Java Programming Masterclass/1 Java Programming Masterclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaTechProTutorial/JavaTechProTutorial.iml" filepath="$PROJECT_DIR$/../JavaTechProTutorial/JavaTechProTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTrWinterr.iml" filepath="$PROJECT_DIR$/JavaTrWinterr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/../LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Practice/Practice.iml" filepath="$PROJECT_DIR$/../Practice/Practice.iml" />
+    </modules>
+  </component>
+</project>
